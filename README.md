@@ -64,10 +64,10 @@ A time series case-control study detecting planetary transit signatures in Keple
 
 ## Results at a Glance
 
-| Star | Dataset Row | Exoplanet | Robust Dip Events | Ljung-Box p | Est. Period | Harmonics (K) |
+| Star | Dataset Row | Exoplanet | Robust Dip Events | Ljung-Box p-value | Est. Period | Harmonics (K) |
 |------|-------------|-----------|-------------------|-------------|-------------|---------------|
 | Star 1 | 1 | Yes | 1 | 2.35e-07 | 100.0 | 6 |
-| Star 2 | 2 | Yes | 3 | 0.00e+00 | 100.0 | 5 |
+| Star 2 | 2 | Yes | 3 | 0.00 | 100.0 | 5 |
 | Star 3 | 6 | No | 0 | 5.05e-01 | 103.2 | 1 |
 | Star 4 | 7 | No | 0 | 2.49e-04 | 100.0 | 1 |
 
