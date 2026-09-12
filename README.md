@@ -91,7 +91,7 @@ A time series case-control study detecting planetary transit signatures in Keple
 
 **Citation:**
 
-[NASA. *Kepler labelled time series data*, 2017.](https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data)
+Kaggle. *Kepler labelled time series data*, 2017. https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data.
 
 ---
 
