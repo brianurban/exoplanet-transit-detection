@@ -26,25 +26,37 @@ A time series case-control study detecting planetary transit signatures in Keple
 
 <br>
 
-![Original Light Curves](exo-figures/02-light-curves.png)
+![Star 1 - Original Light Curves](exo-figures/star1/01-original-light-curves.png)
+![Star 2 - Original Light Curves](exo-figures/star2/01-original-light-curves.png)
+![Star 3 - Original Light Curves](exo-figures/star3/01-original-light-curves.png)
+![Star 4 - Original Light Curves](exo-figures/star4/01-original-light-curves.png)
 
 *Figure 2: Original light curves for the four selected stars—two confirmed exoplanet hosts (top) and two non-hosting controls (bottom).*
 
 <br>
 
-![Detected Transits](exo-figures/03-transit-detections.png)
+![Star 1 - Detected Transits](exo-figures/star1/07-detected-transits.png)
+![Star 2 - Detected Transits](exo-figures/star2/07-detected-transits.png)
+![Star 3 - Detected Transits](exo-figures/star3/07-detected-transits.png)
+![Star 4 - Detected Transits](exo-figures/star4/07-detected-transits.png)
 
 *Figure 3: Robust dip detection on raw flux (rolling median + MAD threshold). Red shaded bands mark flagged events with a red dot at each event midpoint; the dashed line shows the detection threshold.*
 
 <br>
 
-![Fourier Fits](exo-figures/04-fourier-fits.png)
+![Star 1 - Fourier Fits](exo-figures/star1\09-fourier-harmonic-fit.png)
+![Star 2 - Fourier Fits](exo-figures/star2\09-fourier-harmonic-fit.png)
+![Star 3 - Fourier Fits](exo-figures/star3\09-fourier-harmonic-fit.png)
+![Star 4 - Fourier Fits](exo-figures/star4\09-fourier-harmonic-fit.png)
 
 *Figure 4: Fourier harmonic regression fits (AIC-selected K) overlaid on detrended flux for all four stars, capturing long-period deterministic stellar oscillations.*
 
 <br>
 
-![AIC Selection](exo-figures/05-aic-curves.png)
+![Star 1 - AIC Selection](exo-figures/star1/10-aic-vs-number-of-harmonics.png)
+![Star 2 - AIC Selection](exo-figures/star2/10-aic-vs-number-of-harmonics.png)
+![Star 3 - AIC Selection](exo-figures/star3/10-aic-vs-number-of-harmonics.png)
+![Star 4 - AIC Selection](exo-figures/star4/10-aic-vs-number-of-harmonics.png)
 
 *Figure 5: AIC versus number of harmonics (K) for each star, making harmonic selection visible rather than asserted.*
 
@@ -79,7 +91,7 @@ A time series case-control study detecting planetary transit signatures in Keple
 
 **Citation:**
 
-NASA. *Kepler labelled time series data*, 2017. https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data.
+[NASA. *Kepler labelled time series data*, 2017.](https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data)
 
 ---
 
