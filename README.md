@@ -12,7 +12,7 @@ A time series case-control study detecting planetary transit signatures in Keple
 
 - **Confirmed hosts flagged more transit candidates than controls:** 1 and 3 events for the two host stars versus none for the non-hosting stars under the robust MAD threshold—suggestive, not confirmatory, with n = 4 and no significance testing applied.
 
-- **Spectrally estimated periods aligned with plausible orbital timescales** for the hosting stars ([P1] and [P2] observation indices), while control stars displayed fewer and weaker periodic signatures.
+- **Spectrally estimated periods aligned with plausible orbital timescales** for both hosting stars (spectral peaks at the lower edge of the plausible orbital window, ≈100 observation indices), while control stars displayed fewer and weaker periodic signatures.
 
 - **Ljung-Box diagnostics corrected for fitted ARMA orders** (fitdf = p + q), avoiding the anticonservative p-values raw-residual Box tests produce—residual whiteness was assessed at p ≥ [MIN_P] across all four stars.
 
