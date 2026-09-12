@@ -100,8 +100,6 @@ NASA. *Kepler labelled time series data*, 2017. https://www.kaggle.com/datasets/
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![ggplot2](https://custom-icon-badges.demolab.com/badge/ggplot2-2D2F33?logo=ggplot2b&logoColor=white)
 ![forecast](https://custom-icon-badges.demolab.com/badge/forecast-1A9850?logo=forecast&logoColor=white)
-![zoo](https://img.shields.io/badge/zoo-762A83)
-![TSA](https://img.shields.io/badge/TSA-4393C3)
 
 ---
 
