@@ -44,10 +44,10 @@ A time series case-control study detecting planetary transit signatures in Keple
 
 <br>
 
-![Star 1 - Fourier Fits](exo-figures/star1\09-fourier-harmonic-fit.png)
-![Star 2 - Fourier Fits](exo-figures/star2\09-fourier-harmonic-fit.png)
-![Star 3 - Fourier Fits](exo-figures/star3\09-fourier-harmonic-fit.png)
-![Star 4 - Fourier Fits](exo-figures/star4\09-fourier-harmonic-fit.png)
+![Star 1 - Fourier Fits](exo-figures/star1/09-fourier-harmonic-fit.png)
+![Star 2 - Fourier Fits](exo-figures/star2/09-fourier-harmonic-fit.png)
+![Star 3 - Fourier Fits](exo-figures/star3/09-fourier-harmonic-fit.png)
+![Star 4 - Fourier Fits](exo-figures/star4/09-fourier-harmonic-fit.png)
 
 *Figure 4: Fourier harmonic regression fits (AIC-selected K) overlaid on detrended flux for all four stars, capturing long-period deterministic stellar oscillations.*
 
