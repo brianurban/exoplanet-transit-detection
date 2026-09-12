@@ -26,10 +26,10 @@ A time series case-control study detecting planetary transit signatures in Keple
 
 <br>
 
-![Star 1 - Original Light Curves](exo-figures/star1/01-original-light-curves.png)
-![Star 2 - Original Light Curves](exo-figures/star2/01-original-light-curves.png)
-![Star 3 - Original Light Curves](exo-figures/star3/01-original-light-curves.png)
-![Star 4 - Original Light Curves](exo-figures/star4/01-original-light-curves.png)
+![Star 1 - Original Light Curves](exo-figures/star1/01-original-light-curve.png)
+![Star 2 - Original Light Curves](exo-figures/star2/01-original-light-curve.png)
+![Star 3 - Original Light Curves](exo-figures/star3/01-original-light-curve.png)
+![Star 4 - Original Light Curves](exo-figures/star4/01-original-light-curve.png)
 
 *Figure 2: Original light curves for the four selected stars—two confirmed exoplanet hosts (top) and two non-hosting controls (bottom).*
 
