@@ -127,13 +127,13 @@ Classical forecasting machinery, applied carefully, surfaces real planetary sign
 
 ### Reproducibility
 
-- **R version:** [VERSION] (see `sessionInfo()` output)
+- **R version:** 4.6.1 (tested locally)
 
 - **Platform:** Windows 11
 
 - **Random seed:** `set.seed(42)` for reproducibility across runs
 
-- **Packages:** forecast, ggplot2, ggfortify, tseries, lmtest, fUnitRoots, fpp2, TSA, zoo
+- **Packages:** `forecast`, `ggplot2`, `ggfortify`, `tseries`, `lmtest`, `fUnitRoots`, `fpp2`, `TSA`, `zoo`
 
 - **Dataset:** `exoTest.csv` (570 stars × 3,197 flux observations), validated programmatically before analysis
 
