@@ -79,9 +79,9 @@ A time series case-control study detecting planetary transit signatures in Keple
 
 | Pipeline | Method | Libraries |
 |---|---|---|
-| ARIMA | Rolling-mean detrending, log transform, ADF/KPSS stationarity testing, `auto.arima`, corrected Ljung-Box diagnostics | forecast, tseries, fUnitRoots, lmtest |
-| Fourier | Spectral period estimation, AIC-selected harmonics, harmonic regression on scaled detrended flux | forecast, TSA |
-| Dip Detection | Rolling median baseline, MAD-scaled threshold, minimum-run event segmentation, edge guarding | zoo |
+| ARIMA | Rolling-mean detrending, log transform, ADF/KPSS stationarity testing, `auto.arima`, corrected Ljung-Box diagnostics | `forecast`, `tseries`, `fUnitRoots`, `lmtest` |
+| Fourier | Spectral period estimation, AIC-selected harmonics, harmonic regression on scaled detrended flux | `forecast`, `TSA` |
+| Dip Detection | Rolling median baseline, MAD-scaled threshold, minimum-run event segmentation, edge guarding | `zoo` |
 
 ---
 
